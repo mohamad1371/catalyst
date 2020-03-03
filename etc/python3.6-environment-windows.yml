@@ -11,7 +11,7 @@ dependencies:
 - openssl=1.0.2n
 - matplotlib=2.2.2
 - pip=9.0.1
-- python=3.6.4
+- python=3.7.6
 - scipy=1.0.0
 - setuptools=38.4.0=py36_0
 - sqlite=3.22.0
